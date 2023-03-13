@@ -55,6 +55,9 @@ export default function Home() {
           {output}
         </div>
       </div>
+      <footer className="fixed bottom-0 left-0 right-0 p-4 w-full footer text-white text-center">© {new Date().getFullYear()} <a className = "hover-underline text-white" href = "https://azxyc.xyz">azxyc </a>
+    </footer>
+
     </>
   );
 }
