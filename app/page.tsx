@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <>
       <header className="flex items-center justify-between flex-wrap p-6 bg-transparent">
-        <h1 className="text-2xl font-bold p-1">AZXURL</h1>
+        <h1 className="text-2xl font-bold p-1">azxyc.link</h1>
         <h1 className="font-extralight text-2xl p-1">
           lightweight URL shortener.
         </h1>

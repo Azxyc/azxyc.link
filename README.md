@@ -1,2 +1,2 @@
-# azxurl.net
+# azxyc.link
 lightweight url shortener
