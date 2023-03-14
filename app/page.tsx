@@ -49,7 +49,7 @@ export default function Home() {
 
         <button
           onClick={(e) => onSubmit(e)}
-          className="text-left border glass p-2 rounded-lg text-white hover:text-black hover:bg-white lg:w-2/3 mx:6 w-[85%] md:w-[75%]"
+          className="font-mono text-left border glass p-2 rounded-lg text-white hover:text-black hover:bg-white lg:w-2/3 mx:6 w-[85%] md:w-[75%]"
         >
           Submit
         </button>
